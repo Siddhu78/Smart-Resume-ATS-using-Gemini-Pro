@@ -33,5 +33,5 @@ Setup Instructions
 4) Add your Gemini Pro API key
    -Create a .env file in the project root with:
 6) Run the app
-   - streamlit run app.py
+   - streamlit run application.py
 
